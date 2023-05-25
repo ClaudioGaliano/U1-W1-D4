@@ -40,6 +40,9 @@ p, li ,th {
     padding: 0px 4px;
 }
 
+video {
+    width: 100%;
+}
 /* HEADER */
 
 header {
@@ -93,7 +96,6 @@ section li:last-child {
 #Tabella {
     margin-top: 15px;
     margin-bottom: 25px;
-    font-size: 22px;
     border-collapse: collapse;
     width: auto;
     text-align: center;
